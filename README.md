@@ -2,8 +2,10 @@
 
 ## Practice for using the fastapi unit testing practice task
 
-First we need to setup virtual environement for running the appilcation by following command
-python3 -m venv env
+### First we need to setup virtual environement for running the appilcation by following command
+```
+    python3 -m venv env
+```
 
 1. In terminal activate the virtual environement. 
 
